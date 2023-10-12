@@ -1,3 +1,8 @@
+#Increment/Decrement the counter using useState 
+
+![image](https://github.com/mohit5723/Hooks-React/assets/113592385/432d9e03-cee9-42e5-94a8-03c30646e06e)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
